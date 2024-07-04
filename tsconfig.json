@@ -9,6 +9,7 @@
     "downlevelIteration": true,
     "experimentalDecorators": true,
     "moduleResolution": "node",
+    "forceConsistentCasingInFileNames": true,
     "importHelpers": true,
     "paths": {
       "ngx-ui-loader": [
